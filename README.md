@@ -1,7 +1,7 @@
 # neuron-network-from-scratch
 ## My own code of the project "neuron network from scratch" from youtube video
   Links below https://www.youtube.com/watch?v=tMrbN67U9d4
-##what you need
+## what you need
   Make sure the python version and numpy version is as same as those we are using in the video(you can check P.1 for information)
 ## Where is the code
   The code every video will be put in a folder call src, each file will be named as P.1, P.2, etc.
